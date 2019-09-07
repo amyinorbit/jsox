@@ -1,0 +1,5 @@
+projectDirectory        = $CWD
+
+PROJECT_NAME            = 'JSOX'
+PROJECT_CPYEAR          = '2019'
+PROJECT_LICENSE         = 'MIT'
